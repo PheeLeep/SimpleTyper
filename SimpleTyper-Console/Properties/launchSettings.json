@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "SimpleTyper-Console": {
+      "commandName": "Project"
+    },
+    "Lorem+Unpause": {
+      "commandName": "Project",
+      "commandLineArgs": "--lorem --unpause"
+    },
+    "Slow Time": {
+      "commandName": "Project",
+      "commandLineArgs": "--time 500"
+    },
+    "Help": {
+      "commandName": "Project",
+      "commandLineArgs": "--help"
+    }
+  }
+}

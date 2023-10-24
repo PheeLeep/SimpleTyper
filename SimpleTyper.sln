@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "SimpleTyper", "SimpleTyper\SimpleTyper.shproj", "{080577D6-FD87-4074-AB9F-6CD6CE5115FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTyper-Console", "SimpleTyper-Console\SimpleTyper-Console.csproj", "{50CBCFEB-248B-4C5B-A504-1958C7AB8690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTyper-WF", "SimpleTyper-WF\SimpleTyper-WF.csproj", "{73DFA80E-487F-4867-8F1E-0A2C8542E506}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50CBCFEB-248B-4C5B-A504-1958C7AB8690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50CBCFEB-248B-4C5B-A504-1958C7AB8690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50CBCFEB-248B-4C5B-A504-1958C7AB8690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50CBCFEB-248B-4C5B-A504-1958C7AB8690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73DFA80E-487F-4867-8F1E-0A2C8542E506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73DFA80E-487F-4867-8F1E-0A2C8542E506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73DFA80E-487F-4867-8F1E-0A2C8542E506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73DFA80E-487F-4867-8F1E-0A2C8542E506}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3C08F48-AB61-4398-95AD-762A9300A080}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		SimpleTyper\SimpleTyper.projitems*{080577d6-fd87-4074-ab9f-6cd6ce5115fc}*SharedItemsImports = 13
+		SimpleTyper\SimpleTyper.projitems*{50cbcfeb-248b-4c5b-a504-1958c7ab8690}*SharedItemsImports = 5
+		SimpleTyper\SimpleTyper.projitems*{73dfa80e-487f-4867-8f1e-0a2c8542e506}*SharedItemsImports = 5
+	EndGlobalSection
+EndGlobal

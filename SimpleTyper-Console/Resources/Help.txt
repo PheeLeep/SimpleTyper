@@ -1,0 +1,8 @@
+Usage: SimpleTyper-Console [options]
+
+Options:
+   --help      : Shows this help message.
+   --time [ms] : Sets the wait time in milliseconds before it types the next character.
+                 Default: 100 ms.
+   --lorem     : Use Lorem Ipsum text as an output.
+   --unpause   : Don't stop typing after each new line.
